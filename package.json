@@ -9,7 +9,7 @@
         "e2e-test:report": "node_modules/gulp-v4/bin/gulp.js cucumberReports",
         "debug": "node --inspect-brk node_modules/.bin/nightwatch --env chrome_web"
     },
-    "author": "Prankur kulshrestha <p.kulshrestha@globant.com>",
+    "author": "Atul Parihar <atul889dp@gmail.com>",
     "license": "",
     "dependencies": {
         "chromedriver": "^2.36.0",

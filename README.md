@@ -4,7 +4,7 @@ Getting Started with nightwatch
 
 ```
 git clone <URL>
-cd NightWatchJs_Framework
+cd NightWatch_Cucumber_Framework
 npm install
 npm run e2e-test -- --env chrome_web
 ```
