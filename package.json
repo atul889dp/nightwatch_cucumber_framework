@@ -1,5 +1,5 @@
 {
-    "name": "open-weather-map-framework",
+    "name": "nightwatch_cucumber_framework",
     "version": "1.0.0",
     "description": "This is Automation Framework for open weather map and it works with Chrome browser for Web platform. This Framework has built-in support for BDD and page object model.",
     "main": "nightwatch.conf.js",
